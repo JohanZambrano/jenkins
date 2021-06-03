@@ -15,7 +15,7 @@
 	<name>proyectoSpringPrueba</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<start-class>co.edu.unicundi.ProyectoSpringPrueba.ProyectoSpringPruebaApplication</start-class>
+		<start-class>co.edu.unicundi.proyectoSpringPrueba.ProyectoSpringPruebaApplication</start-class>
 		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
